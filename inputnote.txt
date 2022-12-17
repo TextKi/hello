@@ -1,0 +1,27 @@
+<p>
+<canvas id="myCanvas" height="200" width="200"></canvas>
+</p>
+<div id="pieController">
+<form>
+<div id="data1">Data Point One: <select id="select1" class="selector">
+<option value="10">10</option>
+<option value="30">30</option>
+<option value="50">50</option>
+<option value="70">70</option></select></div>
+<div id="data2">Data Point Two: <select id="select2" class="selector">
+<option value="5">5</option>
+<option value="25">25</option>
+<option value="50">50</option>
+<option value="88">88</option></select></div>
+<div id="data3">Data Point Three: <select id="select3" class="selector">
+<option value="20">20</option>
+<option value="40">40</option>
+<option value="60">60</option>
+<option value="80">80</option></select></div>
+<div id="data4">Data Point Four: <select id="select4" class="selector">
+<option value="10">10</option>
+<option value="20">20</option>
+<option value="50">50</option>
+<option value="100">100</option></select></div>
+</form>
+</div>
